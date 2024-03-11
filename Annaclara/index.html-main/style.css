@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 211, 255);
+}
+header{
+    background-color:rgb(255, 211, 255);
+}
+
+main{
+    background-color: rgb(255, 241, 213);
+}
+
+footer{
+    background-color: rgb(255, 211, 255);
+}
+
+
+.logotipo{
+    width: 200px;
+}
+
+img{
+    width:300px;
+}
+h1{
+    text-align: center;
+    text-align: center;
+}
+
+
+h2{
+    font-style:oblique;
+    text-align: center;
+}
+
+
+h3{
+    font-style:oblique;
+    text-align: center;
+}
+
+
+h4{
+    font-style:oblique;
+    text-align: center;
+}
+
+
+h5{
+    font-style:oblique;
+    text-align:center
+}
